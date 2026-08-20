@@ -2,9 +2,7 @@
 
 ### Software Engineer | Mobile Developer | Cloud & AI Enthusiast
 
-I'm a **Software Engineer based in Nairobi, Kenya**, passionate about designing and building reliable, scalable, and user-focused software solutions.
-
-I enjoy working across **web and mobile development, backend engineering, cloud technologies, APIs, and AI-powered applications**, while continuously exploring modern technologies and engineering practices.
+I enjoy working across **web and mobile development, backend engineering**, eager for an exposure to **cloud technologies, and AI-powered applications**, while continuously exploring modern technologies and engineering practices.
 
 ## 👨‍💻 About Me
 
@@ -41,22 +39,14 @@ I enjoy working across **web and mobile development, backend engineering, cloud 
 ### Databases & Infrastructure
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects -->
 
-### 🏫 SmartShule
 
-A school management platform designed to streamline school administration, student management, fee management, communication, reporting, and other institutional workflows.
-
-**Technologies:** PHP, CodeIgniter, MySQL, JavaScript, REST APIs
-
-### 📱 Mobile & Software Projects
-
-I build applications with a focus on clean interfaces, practical functionality, API integration, and maintainable software architecture.
 
 > More projects and experiments can be found throughout my repositories.
 
