@@ -8,12 +8,10 @@ I enjoy working across **web and mobile development, backend engineering, cloud 
 
 ## 👨‍💻 About Me
 
-* 🎓 **ALX Software Engineering Graduate**
-* 💻 Software Engineer focused on building practical and scalable applications
-* 📱 Interested in **Mobile Application Development**
+* ☕ **Am CAFFEINATED - Bring that cup** 😁
+* 🎓 **Backend is my thing, working on my UX**
+* 📱 Trying my things out on **Mobile Application Development**
 * ☁️ Exploring **Cloud Computing, DevOps, and scalable infrastructure**
-* 🤖 Interested in **Artificial Intelligence and modern AI applications**
-* 🔐 Interested in **Cybersecurity and secure software development**
 * 🚀 Continuously learning and experimenting with emerging technologies
 * 🤝 Open to collaborating on interesting software engineering projects
 
@@ -67,28 +65,18 @@ I build applications with a focus on clean interfaces, practical functionality, 
 * Cloud Architecture & DevOps
 * Modern Backend Development
 * Mobile Application Development
-* System Design & Scalable Architecture
-* Secure Software Development
+* Scalable Architecture
 * Modern JavaScript / TypeScript Ecosystem
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevovenom&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevovenom&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=stevovenom&theme=tokyonight&hide_border=true" height="180" />
-</p>
 
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with other developers, engineers, and technology enthusiasts.
 
-📧 **Email:** [stephenokoth2002@gmail.com](mailto:stephenokoth2002@gmail.com)
+📧 **Email:** [nyagolstephen72@gmail.com](mailto:nyagolstephen72@gmail.com)
 
-💼 **LinkedIn:** [Stephen Nyagol](https://www.linkedin.com/)
+💼 **LinkedIn:** [Stephen Nyagol](https://www.linkedin.com/in/stephen-okoth-5065bb278)
 
 🐙 **GitHub:** [@stevovenom](https://github.com/stevovenom)
 
