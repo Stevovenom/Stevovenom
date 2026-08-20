@@ -64,7 +64,6 @@ I build applications with a focus on clean interfaces, practical functionality, 
 
 ## 🌱 Currently Learning & Exploring
 
-* Artificial Intelligence & Generative AI
 * Cloud Architecture & DevOps
 * Modern Backend Development
 * Mobile Application Development
@@ -72,11 +71,11 @@ I build applications with a focus on clean interfaces, practical functionality, 
 * Secure Software Development
 * Modern JavaScript / TypeScript Ecosystem
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevovenom\&theme=tokyonight\&layout=compact)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stevovenom&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevovenom&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=stevovenom\&theme=tokyonight)
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=stevovenom&theme=tokyonight&hide_border=true" height="180" /> </p>
 
 ## 🤝 Let's Connect
 
